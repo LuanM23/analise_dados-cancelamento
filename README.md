@@ -2,7 +2,7 @@
 
 Case - Cancelamento de Clientes 
 
-Link tabela csv: https://drive.google.com/drive/folders/1IzP2jWOlB1za87s2Ejc6nl32-VxkUqOL?usp=sharing
+Link tabela csv: https://drive.google.com/drive/folders/1MAnCKqceLyjq-rNDi8N8dyRpgBh7YK2B?usp=sharing
 
 Você foi contratado por uma empresa com mais de 800 mil clientes para um projeto de Dados. Recentemente a empresa percebeu que da sua base total de clientes, a maioria são clientes inativos, ou seja, que já cancelaram o serviço.
 
